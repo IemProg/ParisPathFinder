@@ -1,0 +1,11 @@
+string_name_station,uint32_s_id,string_short_line,string_adress_station,string_desc_line
+A,1,Ligne de la station A,Adresse de la station A, Ligne de la A (Terminus undefined -> Terminus undefined) - Aller
+B,2,Ligne de la station B,Adresse de la station B, Ligne de la B (Terminus undefined -> Terminus undefined) - Aller
+C,3,Ligne de la station C,Adresse de la station C, Ligne de la C (Terminus undefined -> Terminus undefined) - Aller
+D,4,Ligne de la station D,Adresse de la station D, Ligne de la D (Terminus undefined -> Terminus undefined) - Aller
+E,5,Ligne de la station E,Adresse de la station E, Ligne de la E (Terminus undefined -> Terminus undefined) - Aller
+F,6,Ligne de la station F,Adresse de la station F, Ligne de la F (Terminus undefined -> Terminus undefined) - Aller
+G,7,Ligne de la station G,Adresse de la station G, Ligne de la G (Terminus undefined -> Terminus undefined) - Aller
+H,8,Ligne de la station H,Adresse de la station H, Ligne de la H (Terminus undefined -> Terminus undefined) - Aller
+I,9,Ligne de la station I,Adresse de la station I, Ligne de la I (Terminus undefined -> Terminus undefined) - Aller
+J,10,Ligne de la station J,Adresse de la station J, Ligne de la J (Terminus undefined -> Terminus undefined) - Aller
