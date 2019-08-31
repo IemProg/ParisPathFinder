@@ -26,12 +26,4 @@ class station():
         string = "Connected to: " +self.name+" far about: "+self.time
         return string
 
-with open('s.csv') as csv_file:
-    csv_reader = csv.reader(csv_file, delimiter=',')
-    dic_stations = {}
-    #Row : Name, ID, LineID, String, LineName
-    for row in csv_reader:
-        element = station(row[0], row[2], row[4])
-        dic_stations[row[1]] = element
-
-print(dic_stations["1755"].getName())
+#print(dic_stations["1755"].getName())
