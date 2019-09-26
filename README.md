@@ -2,7 +2,7 @@
 ParisPathFinder: finding the shortest path between adresses in Paris city  using RATP database
 
 
-##ExecutionAndTests:
+## ExecutionAndTests:
 
 Use of the csv files as database :√
 s.csv : contains all the stations of paris subway :
@@ -12,7 +12,7 @@ c.csv : contains all the connections between the subway stations ( transfer time
 ![Connections](https://github.com/IemProg/ParisPathFinder/blob/master/connections.jpg)
 
 
-##Execute:
+### Execute:
 
 1/ *Using Stations Ids :*
 
@@ -31,5 +31,6 @@ Python Display.py 1722 2062
 ```
 
 
-#Acknowledgments:
+## Acknowledgments:
+
 Project inspired from the work of @AissamDjahnine
